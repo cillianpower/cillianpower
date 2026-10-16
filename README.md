@@ -7,3 +7,5 @@ You can check out my software on this page.
 **[benq-ddc-dms](https://github.com/cillianpower/benq-ddc-dms)** and **[benq-ddc-gtk](https://github.com/cillianpower/benq-ddc-gtk)** - controls for BenQ monitors, both DMS plugin and discrete GTK GUI versions.
 
 **[Audiogen](https://github.com/cillianpower/Audiogen)** — an app using local generative audio models to create and modify audio for you to import into a DAW.
+
+**[Audioglass](https://github.com/cillianpower/audioglass)** — a real-time audio analysis application designed using native macOS glass
